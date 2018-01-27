@@ -3,7 +3,7 @@ Type: Package
 Title: Import Excel Databse Files (xlsb)
 Version: 0.1.0
 Author: Gabriel Rega
-Maintainer: Gabriel Rega <gabrielrega@gmail.com
+Maintainer: Gabriel Rega <gabrielrega@gmail.com>
 Description: The package loads a xlsb file on R as a data.frame, using a database connection.
 License: GPL-3
 Encoding: UTF-8
