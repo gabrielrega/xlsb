@@ -1,5 +1,5 @@
-#' Loads a xlsb file
-#' This is the basic function of the package, wich reads the xlsb files as a database using RODBC.
+#' Loads a XLSB file
+#' @description  This is the basic function of the package, wich reads the xlsb files as a database using RODBC.
 #'
 #' @param x A filename or filepath.
 #' @return A dataframe containing data stored in the file.

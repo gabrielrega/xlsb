@@ -12,3 +12,4 @@ Imports: RODBC
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 6.0.1
